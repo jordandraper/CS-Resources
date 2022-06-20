@@ -1,5 +1,6 @@
-### Comp Sci Course Path
+# Comp Sci Course Path
 
+## MIT CompSci Bachelors Core Tracking
 http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
 - [6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
@@ -35,12 +36,16 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
     - [](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/)
     - [](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
-### Data Structures & Algorithm Resources
+## Moocs
+- [Algorithms, Part I (Princeton by Wayne & Sedgewick)](https://www.coursera.org/learn/algorithms-part1)
+- [Algorithms, Part II (Princeton by Wayne & Sedgewick)](https://www.coursera.org/learn/algorithms-part2)
+
+# Data Structures & Algorithm Resources
 [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
-#### Books
+## Books
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html#)
 
-#### Video Playlist
+## Video Playlist
 [WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 [Back to Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
 
@@ -53,5 +58,5 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
     - [CodeSignal](https://codesignal.com)
     - [Firecode.io]()
 
-### Job Hunting & Interviewing
+# Job Hunting & Interviewing
 [What I learned from hiring hundreds of engineers can help you land your next role](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/)
