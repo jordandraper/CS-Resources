@@ -36,6 +36,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
     - [](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
 ### Data Structures & Algorithm Resources
+[Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 #### Books
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html#)
 
