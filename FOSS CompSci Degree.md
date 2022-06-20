@@ -1,6 +1,7 @@
 # Comp Sci Course Path
 
-## MIT CompSci Bachelors Core Tracking
+## MOOCS
+### MIT CompSci Bachelors Core Tracking
 http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
 - [6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
@@ -36,12 +37,13 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
     - [](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/)
     - [](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
-## Moocs
+### Other
 - [Algorithms, Part I (Princeton by Wayne & Sedgewick)](https://www.coursera.org/learn/algorithms-part1)
 - [Algorithms, Part II (Princeton by Wayne & Sedgewick)](https://www.coursera.org/learn/algorithms-part2)
 
 # Data Structures & Algorithm Resources
 [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+
 ## Books
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html#)
 
@@ -49,7 +51,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 [WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 [Back to Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
 
-- Coding Challenges & Interview Problems
+## Coding Challenges & Interview Problems
     - [Codewars](https://www.codewars.com)
     - [HackerRank](https://www.hackerrank.com)
     - [Leetcode](https://leetcode.com)
@@ -57,6 +59,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
         - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
     - [CodeSignal](https://codesignal.com)
     - [Firecode.io]()
+    - [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
 
 # Job Hunting & Interviewing
 [What I learned from hiring hundreds of engineers can help you land your next role](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/)
