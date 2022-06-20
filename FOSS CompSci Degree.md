@@ -36,12 +36,18 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
     - [](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
 ### Data Structures & Algorithm Resources
-[Python Book](https://runestone.academy/ns/books/published/pythonds/index.html#)
+#### Books
+[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html#)
+
+#### Video Playlist
+[WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+[Back to Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
 
 - Coding Challenges & Interview Problems
     - [Codewars](https://www.codewars.com)
     - [HackerRank](https://www.hackerrank.com)
     - [Leetcode](https://leetcode.com)
         - [Neetcode](https://neetcode.io/)
+        - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
     - [CodeSignal](https://codesignal.com)
     - [Firecode.io]()
