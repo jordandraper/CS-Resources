@@ -122,3 +122,5 @@ https://www.techiedelight.com/bit-hacks-part-2-playing-kth-bit/
 https://www.techiedelight.com/bit-hacks-part-3-playing-rightmost-set-bit-number/
 https://www.techiedelight.com/bit-hacks-part-4-playing-letters-english-alphabet/
 https://www.techiedelight.com/bit-hacks-part-5-find-absolute-value-integer-without-branching/
+
+[Advanced and Esoteric Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
