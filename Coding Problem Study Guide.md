@@ -55,6 +55,8 @@ Bitwise Not (logical negation)
 Signed vs Unsigned Ints
 Signed integers need an extra bit to represent the sign. This leads to either just having a single bit represent sign, using the 1's complement method, or the two's complement method. 
 
+[Two's Complement Part 1 - An Introduction](https://www.youtube.com/watch?v=9W67I2zzAfo)
+
 
 Bitwise shift left
 - shift all digits left by one position and append 0 to the right of the binary string
