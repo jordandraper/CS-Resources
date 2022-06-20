@@ -1,4 +1,4 @@
-### FOSS Comp Sci
+### Comp Sci Course Path
 
 http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
@@ -34,3 +34,6 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 - [6.046J]
     - [](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/)
     - [](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
+### Data Structures & Algorithm Resources
+[Python Book](https://runestone.academy/ns/books/published/pythonds/index.html#)
