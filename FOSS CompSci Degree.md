@@ -52,3 +52,6 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
         - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
     - [CodeSignal](https://codesignal.com)
     - [Firecode.io]()
+
+### Job Hunting & Interviewing
+[What I learned from hiring hundreds of engineers can help you land your next role](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/)
