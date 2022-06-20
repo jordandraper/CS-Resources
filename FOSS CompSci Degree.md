@@ -37,3 +37,11 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
 ### Data Structures & Algorithm Resources
 [Python Book](https://runestone.academy/ns/books/published/pythonds/index.html#)
+
+- Coding Challenges & Interview Problems
+    - [Codewars](https://www.codewars.com)
+    - [HackerRank](https://www.hackerrank.com)
+    - [Leetcode](https://leetcode.com)
+        - [Neetcode](https://neetcode.io/)
+    - [CodeSignal](https://codesignal.com)
+    - [Firecode.io]()
