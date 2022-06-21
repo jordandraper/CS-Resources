@@ -25,7 +25,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
 - [6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
 
-- [6.034 Artificial Intelligence]
+- 6.034 Artificial Intelligence
     - [Kaelbling, Spring 2005](https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/)
     - [Winston, Fall 2010](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
 
@@ -33,7 +33,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
 - [6.045J Automata, Computability, and Complexity](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/)
 
-- [6.046J Design and Analysis of Algorithms]
+- 6.046J Design and Analysis of Algorithms
     - [Moshkovitz, Spring 2012](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/)
     - [Demaine, Spring 2015](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
