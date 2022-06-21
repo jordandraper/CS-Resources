@@ -44,6 +44,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 # Data Structures & Algorithm Resources
 [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 [Leetcode Study Guide](https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/?sort=new)
+[Interactive Website](https://www.redblobgames.com/)
 
 ## Books
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html#)
@@ -53,14 +54,15 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 [Back to Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
 
 ## Coding Challenges & Interview Problems
-    - [Codewars](https://www.codewars.com)
-    - [HackerRank](https://www.hackerrank.com)
-    - [Leetcode](https://leetcode.com)
-        - [Neetcode](https://neetcode.io/)
-        - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
-    - [CodeSignal](https://codesignal.com)
-    - [Firecode.io]()
-    - [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
+- [Leetcode](https://leetcode.com)
+    - [Neetcode](https://neetcode.io/)
+    - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+- [CodeSignal](https://codesignal.com)
+- [Firecode.io]()
+- [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
+    - Have local copy
+- [Codewars](https://www.codewars.com)
+- [HackerRank](https://www.hackerrank.com)
 
 # Job Hunting & Interviewing
 [What I learned from hiring hundreds of engineers can help you land your next role](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/)
