@@ -31,9 +31,9 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
 - [6.036 Introduction to Machine Learning](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/)
 
-- [6.045J](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/)
+- [6.045J Automata, Computability, and Complexity](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/)
 
-- [6.046J]
+- [6.046J Design and Analysis of Algorithms]
     - [Moshkovitz, Spring 2012](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/)
     - [Demaine, Spring 2015](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
