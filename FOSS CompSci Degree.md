@@ -47,8 +47,8 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 - [Interactive Website](https://www.redblobgames.com/)
 
 ## Books
-[Discrete MathematicsAn Open Introduction](http://discrete.openmathbooks.org/dmoi2/dmoi.html)
-[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html#)
+- [Discrete MathematicsAn Open Introduction](http://discrete.openmathbooks.org/dmoi2/dmoi.html)
+- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html#)
 
 ## Video Playlist
 - [WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
