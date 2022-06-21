@@ -42,16 +42,16 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 - [Algorithms, Part II (Princeton by Wayne & Sedgewick)](https://www.coursera.org/learn/algorithms-part2)
 
 # Data Structures & Algorithm Resources
-[Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
-[Leetcode Study Guide](https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/?sort=new)
-[Interactive Website](https://www.redblobgames.com/)
+- [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+- [Leetcode Study Guide](https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/?sort=new)
+- [Interactive Website](https://www.redblobgames.com/)
 
 ## Books
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html#)
 
 ## Video Playlist
-[WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
-[Back to Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
+- [WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+- [Back to Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
 
 ## Coding Challenges & Interview Problems
 - [Leetcode](https://leetcode.com)
