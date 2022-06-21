@@ -58,9 +58,9 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
     - [Neetcode](https://neetcode.io/)
     - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 - [CodeSignal](https://codesignal.com)
-- [Firecode.io]()
 - [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
     - Have local copy
+- [Firecode.io]()
 - [Codewars](https://www.codewars.com)
 - [HackerRank](https://www.hackerrank.com)
 
