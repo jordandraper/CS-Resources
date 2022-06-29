@@ -124,9 +124,10 @@ Addition & Subtration with logical operators:
 - Addition: x+y
     - Add without the carry bit: x^y
     - Finding the carry bit: (x&y)<<1
-- Subtraction: x-y
+- Subtraction: x-y 
     - Subtract without borrow bit: x^y
-    - Borrow bit: (~x)&y 
+    - Borrow bit: (~x)&y
+    - specifically x-y = x + (2's complement of y)
 
 Determining if a number is a power of 2:
 - x & (x-1) = 0, x!=0 iff x is a power of 2
