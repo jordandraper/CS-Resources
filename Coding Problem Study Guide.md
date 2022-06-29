@@ -97,7 +97,7 @@ value ^ (1 << bit_index)
 - Abelian group, x ^ y = y ^ x
 
 #### Number of bits in a decimal value
-- Number of bits in x = $\floor{\log_2 x}$
+- Number of bits in x = $\left \lfloor{\log_2 x}\right \rfloor$
 
 ## Tips & Tricks
 
