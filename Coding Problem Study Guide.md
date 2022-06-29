@@ -137,6 +137,9 @@ Determining if a number is a power of 2:
 - x & (x-1) = 0, x!=0 iff x is a power of 2
 - subtracting 1 from a binary string causes the rightmost 1 to become a 0 and all trailing 0's to become 1's
 
+Flipping least significant bit:
+- x &= (x-1) flips the least significant 1 bit to 0
+
 https://www.techiedelight.com/bit-hacks-part-1-basic/
 https://www.techiedelight.com/bit-hacks-part-2-playing-kth-bit/
 https://www.techiedelight.com/bit-hacks-part-3-playing-rightmost-set-bit-number/
