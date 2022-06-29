@@ -107,15 +107,22 @@ The XOR trick: If we have a sequence of XOR operations a ^ b ^ c ^ ..., then we 
 The algorithm works in any situation where there is (1) some set of potential elements and (2) a set of elements actually appearing.
 
 - XOR is essential for:
-- finding one missing/duplicate value in a sequence
-- finding two missing/duplicate values in a sequence
-    - the key is to inspect the result of the last two elements being xored (is that a word?) and partitioning based on the first occurence of a 1 bit. 
-- In-Place Swapping
-    - x ^= y, y ^= x, x ^= y
+    - finding one missing/duplicate value in a sequence
+        - XOR with entire sequence, including the missing/duplicate value 
+    - finding two missing/duplicate values in a sequence
+        - the key is to inspect the result of the last two elements being xored (is that a word?) and partitioning based on the first occurence of a 1 bit. 
+    - In place Swapping
+        - x ^= y, y ^= x, x ^= y
+    - Finding the complement
+        - complement = number ^ (all bits set to 1)    
 
-Addition with logical operators:
-- Add without the carry bit: ^
-- Finding the carry bit: &<<
+Addition & Subtration with logical operators:
+- Addition: x+y
+    - Add without the carry bit: x^y
+    - Finding the carry bit: (x&y)<<1
+- Subtraction: x-y
+    - Subtract without borrow bit: x^y
+    - Borrow bit: (~x)&y 
 
 https://www.techiedelight.com/bit-hacks-part-1-basic/
 https://www.techiedelight.com/bit-hacks-part-2-playing-kth-bit/
