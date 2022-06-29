@@ -20,17 +20,17 @@ Operators are special symbols that designate that some sort of computation shoul
 
 
 AND (logical conjunction)
-||0|1|
+|&|0|1|
 |-|-|-|
 |0|0|0
 |1|0|1
 
-- Arithmetic interpretation: component-wise multiplication: $(a&b)_i = a_i*b_i$ 
+- Arithmetic interpretation: component-wise multiplication: $(a$&$b)_i = a_i*b_i$ 
 - Set interpretiation: Intersection of the two bits, with empty set resulting in 0.
 - Alternatively, take the minimum of each bit pair.
 
 OR (logical disjunction)
-||0|1|
+|||0|1|
 |-|-|-|
 |0|0|1
 |1|1|1
@@ -40,7 +40,7 @@ OR (logical disjunction)
 - Alternatively, take the maximum of each bit pair.
 
 XOR (exclusive disjunction)
-||0|1|
+|^|0|1|
 |-|-|-|
 |0|0|1
 |1|1|0
