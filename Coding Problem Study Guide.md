@@ -124,9 +124,13 @@ Addition & Subtration with logical operators:
 - Addition: x+y
     - Add without the carry bit: x^y
     - Finding the carry bit: (x&y)<<1
+        - (x&y) finds all the locations of a shared 1 (where a carry would happen), and the left shift puts them at the correct positions.
+    - Repeat until carry bit is zero.   
 - Subtraction: x-y 
     - Subtract without borrow bit: x^y
     - Borrow bit: ((~x)&y)<<1
+        - A borrow happens when an x bit is 0 and a y bit is 1. By taking the complement, those 0's become 1's. Performing the and operation gives the 1's where the borrow goes to and 0 everywhere else. The left shift puts 1 where we are borrowing from.
+    - Repeat until the borrow bit is zero.
     - specifically x-y = x + (2's complement of y)
 
 Determining if a number is a power of 2:
