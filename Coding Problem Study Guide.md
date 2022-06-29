@@ -20,7 +20,7 @@ Operators are special symbols that designate that some sort of computation shoul
 
 
 AND (logical conjunction)
-|&|0|1|
+|\&|0|1|
 |-|-|-|
 |0|0|0
 |1|0|1
@@ -30,7 +30,7 @@ AND (logical conjunction)
 - Alternatively, take the minimum of each bit pair.
 
 OR (logical disjunction)
-|||0|1|
+|\||0|1|
 |-|-|-|
 |0|0|1
 |1|1|1
