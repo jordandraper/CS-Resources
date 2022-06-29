@@ -25,7 +25,7 @@ AND (logical conjunction)
 |0|0|0
 |1|0|1
 
-- Arithmetic interpretation: component-wise multiplication: $(a$&$b)_i = a_i*b_i$ 
+- Arithmetic interpretation: component-wise multiplication: $(a$\&$b)_i = a_i*b_i$ 
 - Set interpretiation: Intersection of the two bits, with empty set resulting in 0.
 - Alternatively, take the minimum of each bit pair.
 
