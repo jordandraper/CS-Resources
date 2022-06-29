@@ -3,13 +3,15 @@
 - emphasis on 'wise'. These are performed bit by bit, so componentwise. 
 - https://realpython.com/python-bitwise-operators/ 
 
-Operators are special symbols that designate that some sort of computation should be performed. There are several kinds including  arithmetic, logical, and comparison operators
+Operators are special symbols that designate that some sort of computation should be performed. There are several kinds including  arithmetic, logical, and comparison operators.
 
 ### Operator Defintions
+#### How many?
 - Unary: 1 operand
 - Binary: 2 operands
 - Ternary: 3 operands
 
+#### Where?
 - Prefix notation: operator goes before operand(s)
 - Infix notation: operator goes between operand(s)
 - Postfix notation: operator goes after operand(s)
