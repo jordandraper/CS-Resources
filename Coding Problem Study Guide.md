@@ -1,5 +1,5 @@
 # Coding Problem Study Guide
-## 0. Bitwise Operations
+## 0. Bits
 - emphasis on 'wise'. These are performed bit by bit, so componentwise. 
 - https://realpython.com/python-bitwise-operators/ 
 
@@ -15,11 +15,10 @@ Operators are special symbols that designate that some sort of computation shoul
 - Prefix notation: operator goes before operand(s)
 - Infix notation: operator goes between operand(s)
 - Postfix notation: operator goes after operand(s)
+- [Augmented Assignment](https://peps.python.org/pep-0203/) performed by compound operators. E.g. += -= *= /= %= **= <<= >>= &= ^= |=
 
-[Augmented Assignment](https://peps.python.org/pep-0203/) performed by compound operators. E.g. += -= *= /= %= **= <<= >>= &= ^= |=
-
-
-AND (logical conjunction)
+### Bitwise Operations
+#### AND (logical conjunction)
 |\&|0|1|
 |-|-|-|
 |0|0|0
@@ -29,7 +28,7 @@ AND (logical conjunction)
 - Set interpretiation: Intersection of the two bits, with empty set resulting in 0.
 - Alternatively, take the minimum of each bit pair.
 
-OR (logical disjunction)
+#### OR (logical disjunction)
 |\||0|1|
 |-|-|-|
 |0|0|1
@@ -39,7 +38,7 @@ OR (logical disjunction)
 - Set interpretiation: Union of the two bits
 - Alternatively, take the maximum of each bit pair.
 
-XOR (exclusive disjunction)
+#### XOR (exclusive disjunction)
 |^|0|1|
 |-|-|-|
 |0|0|1
@@ -49,31 +48,30 @@ XOR (exclusive disjunction)
 - Set interpretiation: Symmetric difference of the two bits
 - Mutually exclusive conditions and tells you whether exactly one of them is met. 
 
-Bitwise Not (logical negation)
+#### Bitwise Not (logical negation)
 - Arithmetic interpretation: component-wise subtraction from 1: ~$a_i = 1-a_i$
 - Flips all the bits of a number. The inverted bits are a complement to one, which turns zeros into ones and ones into zeros.
 - only unary bitwise operator
 
-Signed vs Unsigned Ints
+##### Signed vs Unsigned Ints
 Signed integers need an extra bit to represent the sign. This leads to either just having a single bit represent sign, using the 1's complement method, or the two's complement method. 
 
 [Two's Complement Part 1 - An Introduction](https://www.youtube.com/watch?v=9W67I2zzAfo)
 [Two's Complement Part 2 - An Introduction](https://www.youtube.com/watch?v=Hof95YlLQk0)
 
 
-Bitwise shift left
+#### Bitwise shift left
 - shift all digits left by one position and append 0 to the right of the binary string
 - Shifting a single bit to the left by one place doubles that bits value. As a result, the entire number gets doubled as well. In general, shifting n positions to the left multiplies the value of the givben number by $2^n$
 - a << n = $a \times 2^n$
 
-Bitwise shift right
+#### Bitwise shift right
 - shift all digits right by one position and drop the rightmost digit
 - Shifting a single bit to the right by one place halves that bits value. As a result, the entire number gets halved as well, rounded down. In general, shifting n positions to the left divides the value of the givben number by $2^n, and rounds down$
 - a >> n = $\left \lfloor{\frac{a}{2^n}}\right \rfloor $
 - It’s virtually the same as a floor division by a power of two
 
-
-Bitmasks
+##### Bitmasks
 A bitmask works like a graffiti stencil that blocks the paint from being sprayed on particular areas of a surface. It lets you isolate the bits to apply some function on them selectively. Bitmasking involves both the bitwise logical operators and the bitwise shift operators that you’ve read about.
 
 Getting a bit: use the bitwise AND against a bitmask composed of only one bit at the desired index
@@ -88,8 +86,8 @@ value & ~(1 << bit_index)
 Toggling a bit: Sometimes it’s useful to be able to toggle a bit on and off again periodically. That’s a perfect opportunity for the bitwise XOR operator, which can flip your bit like that. 
 value ^ (1 << bit_index)
 
-
-GF2
+### Mathematical Connections
+#### GF2
 - The unique field of order 2. The two operations are logical and and logical xor - multiplication and addition, respectively.
 
 - XOR is the addition operator in the field GF2. The induced group therefore has an identity element, each element has an inverse, and is an associative operation.
@@ -97,6 +95,9 @@ GF2
 - x ^ 0 = x (0 is the identity element)
 - x ^ x = 0 (x is it's own inverse)
 - Abelian group, x ^ y = y ^ x
+
+#### Number of bits in a decimal value
+- Number of bits in x = $\floor{\log_2 x}$
 
 ## Tips & Tricks
 
