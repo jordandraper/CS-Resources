@@ -54,7 +54,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
 ## Books
 - [Discrete MathematicsAn Open Introduction](http://discrete.openmathbooks.org/dmoi2/dmoi.html)
-- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html#)
+- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds3/index.html)
 - [Runestone](https://runestone.academy/runestone/books/index)
 
 ## Video Playlist
