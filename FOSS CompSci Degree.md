@@ -5,8 +5,6 @@
 ### Start Here
 [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
-
-
 ### MIT CompSci Bachelors Core Tracking
 http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
@@ -61,7 +59,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 - [WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 - [Back to Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
 
-## Coding Challenges & Interview Problems
+## Coding Challenges, Interview Problems, and Competitive Programming
 - [Leetcode](https://leetcode.com)
     - [Neetcode](https://neetcode.io/)
     - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
