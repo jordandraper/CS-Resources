@@ -5,6 +5,8 @@
 ### Start Here
 [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
+
+
 ### MIT CompSci Bachelors Core Tracking
 http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
@@ -53,6 +55,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 ## Books
 - [Discrete MathematicsAn Open Introduction](http://discrete.openmathbooks.org/dmoi2/dmoi.html)
 - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html#)
+- [Runestone](https://runestone.academy/runestone/books/index)
 
 ## Video Playlist
 - [WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
