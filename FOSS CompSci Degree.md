@@ -56,12 +56,13 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 - [Runestone](https://runestone.academy/runestone/books/index)
 
 ## Video Playlist
-- [WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+- [Data Structures by WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 - [Back to Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
 
 ## Coding Challenges, Interview Problems, and Competitive Programming
 - [Leetcode](https://leetcode.com)
     - [Neetcode](https://neetcode.io/)
+        -  Blind 75 & Neetcode 150 
     - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 - [CodeSignal](https://codesignal.com)
 - [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
