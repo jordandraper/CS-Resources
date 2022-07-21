@@ -5,3 +5,6 @@
 # Python
 ## Framework Specific
 - https://github.com/hackersandslackers/flask-blueprint-tutorial
+
+# SQL
+- [N+1 Problem](https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping)
