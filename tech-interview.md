@@ -26,6 +26,7 @@
 - [CodeSignal](https://codesignal.com)
 - [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
     - [Solutions Github](https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions)
+    - [Alternate Solutions Github](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews)
     - [Grokking questions mapped to Leetcode](https://github.com/Verse1/LeetGrokk)
 - [Firecode.io]()
 - [Codewars](https://www.codewars.com)
