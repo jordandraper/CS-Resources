@@ -1,5 +1,6 @@
 # Tech Interview Prep
 - https://www.techinterviewhandbook.org/
+- [Resources by Google](https://techdevguide.withgoogle.com/)
 - [What I learned from hiring hundreds of engineers can help you land your next role](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/)
 
 ## Data Structures & Algorithm Resources
