@@ -22,6 +22,7 @@
 
 ### Coding Challenges, Interview Problems, and Competitive Programming
 - [Leetcode](https://leetcode.com)
+    - [Tips](https://www.reddit.com/r/leetcode/comments/uy7moq/leetcode_tips_by_author_or_blind_75/)
     - [Neetcode](https://neetcode.io/)
         -  Blind 75 & Neetcode 150 
     - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
