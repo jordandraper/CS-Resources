@@ -8,7 +8,7 @@
 - [Interactive Website](https://www.redblobgames.com/)
 
 ### Books
-- [Discrete MathematicsAn Open Introduction](http://discrete.openmathbooks.org/dmoi2/dmoi.html)
+- [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi2/dmoi.html)
 - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds3/index.html)
     - [Runestone](https://runestone.academy/runestone/books/index)
 
