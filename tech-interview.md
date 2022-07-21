@@ -14,9 +14,11 @@
     - [Video Solutions](https://www.youtube.com/user/gjenkinslbcc)
     - [Runestone](https://runestone.academy/runestone/books/index)
 
-### Video Playlist
+### Video
 - [Data Structures by WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 - [Back to Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
+- [Algorithms, Part I (Princeton by Wayne & Sedgewick)](https://www.coursera.org/learn/algorithms-part1)
+- [Algorithms, Part II (Princeton by Wayne & Sedgewick)](https://www.coursera.org/learn/algorithms-part2)
 
 ### Coding Challenges, Interview Problems, and Competitive Programming
 - [Leetcode](https://leetcode.com)
