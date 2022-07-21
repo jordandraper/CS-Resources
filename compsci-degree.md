@@ -7,7 +7,7 @@
 - [Web Dev?](https://www.theodinproject.com/dashboard)
 
 ### MIT CompSci Bachelors Core Tracking
-http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
+[Degree Tracking](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
 
 - [6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
@@ -43,7 +43,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
     - [Demaine, Spring 2015](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
 - [Missing Lectures](https://missing.csail.mit.edu/2020/)
-- 
+
 ### Other
 - [Algorithms, Part I (Princeton by Wayne & Sedgewick)](https://www.coursera.org/learn/algorithms-part1)
 - [Algorithms, Part II (Princeton by Wayne & Sedgewick)](https://www.coursera.org/learn/algorithms-part2)
