@@ -3,8 +3,8 @@
 ## MOOCS
 
 ### Start Here
-[Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
-[Web Dev?](https://www.theodinproject.com/dashboard)
+- [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [Web Dev?](https://www.theodinproject.com/dashboard)
 
 ### MIT CompSci Bachelors Core Tracking
 http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
