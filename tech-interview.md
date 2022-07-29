@@ -37,3 +37,8 @@
 
 ## System Design
 - https://www.codekarle.com/
+
+
+# Job Openings
+- [Remotive](https://remotive.com/)
+    - https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview
