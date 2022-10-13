@@ -87,7 +87,7 @@ Toggling a bit: Sometimes it’s useful to be able to toggle a bit on and off ag
 value ^ (1 << bit_index)
 
 ### Mathematical Connections
-#### GF2
+#### [GF2](https://en.wikipedia.org/wiki/GF(2))
 - The unique field of order 2. The two operations are logical and and logical xor - multiplication and addition, respectively.
 
 - XOR is the addition operator in the field GF2. The induced group therefore has an identity element, each element has an inverse, and is an associative operation.
