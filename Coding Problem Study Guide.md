@@ -95,7 +95,7 @@ value ^ (1 << bit_index)
 - x ^ 0 = x (0 is the identity element)
 - x ^ x = 0 (x is it's own inverse)
 - Abelian group, x ^ y = y ^ x
-
+- [Why does AND distribute over XOR](https://bitmath.blogspot.com/2020/08/why-does-and-distribute-over-xor.html)
 #### Number of bits in a decimal value
 - Number of bits in x = $\left \lfloor{\log_2 x}\right \rfloor + 1$
 
