@@ -2,6 +2,7 @@
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 - [Resources by Google](https://techdevguide.withgoogle.com/)
 - [What I learned from hiring hundreds of engineers can help you land your next role](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/)
+- [How I Became a Recruiter-Magnet on LinkedIn](https://towardsdatascience.com/how-i-became-a-recruiter-magnet-on-linkedin-2dc6264d1137)
 
 ## Data Structures & Algorithm Resources
 - [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
