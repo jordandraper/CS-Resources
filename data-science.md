@@ -1,5 +1,6 @@
 ## Data Science Resources
 - https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
+- [CRISP-DM – a Standard Methodology to Ensure a Good Outcome](https://www.datasciencecentral.com/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome/)
 
 ### Machine Learning & Modeling
 - https://stanford.edu/~shervine/teaching/
