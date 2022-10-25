@@ -7,7 +7,7 @@
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Web Dev?](https://www.theodinproject.com/dashboard)
-- [Complete Course List](https://github.com/Developer-Y/cs-video-courses)
+- [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 
 ### MIT CompSci Bachelors Core Tracking
 [Degree Tracking](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
