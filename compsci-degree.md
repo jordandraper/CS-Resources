@@ -4,6 +4,7 @@
 
 ### Start Here
 - [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Web Dev?](https://www.theodinproject.com/dashboard)
 - [Complete Course List](https://github.com/Developer-Y/cs-video-courses)
