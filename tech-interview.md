@@ -1,3 +1,9 @@
+# Job Openings
+- [Remotive](https://remotive.com/)
+    - https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview
+- [TripleByte](https://triplebyte.com/)
+- [AI Works](https://ai.works-hub.com/jobs)
+- 
 # Interview Prep
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 - [Resources by Google](https://techdevguide.withgoogle.com/)
@@ -44,10 +50,3 @@
 ## System Design
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design Interview Preparation Series](https://www.codekarle.com/)
-
-
-# Job Openings
-- [Remotive](https://remotive.com/)
-    - https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview
-- [TripleByte](https://triplebyte.com/)
-- [AI Works](https://ai.works-hub.com/jobs)
