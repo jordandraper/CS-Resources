@@ -1,8 +1,13 @@
-# Tech Interview Prep
+# Interview Prep
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 - [Resources by Google](https://techdevguide.withgoogle.com/)
 - [What I learned from hiring hundreds of engineers can help you land your next role](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/)
 - [How I Became a Recruiter-Magnet on LinkedIn](https://towardsdatascience.com/how-i-became-a-recruiter-magnet-on-linkedin-2dc6264d1137)
+- [Udacity Career Development Workshops Guide](https://docs.google.com/document/d/1Bf1jEkKlCYJJdUoyBSROxPS5FsZlAaZ8cZ35GsHhpYU/pub)
+- [The PM Interview](https://thepminterview.com/)
+- [The TPM Interview](https://thetpminterview.com/)
+- [Gainlo - Mock interview with engineers](http://www.gainlo.co/#!/)
+- [InterviewBit](https://www.interviewbit.com/)
 
 ## Data Structures & Algorithm Resources
 - [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
@@ -37,9 +42,12 @@
 - [HackerRank](https://www.hackerrank.com)
 
 ## System Design
-- https://www.codekarle.com/
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [System Design Interview Preparation Series](https://www.codekarle.com/)
 
 
 # Job Openings
 - [Remotive](https://remotive.com/)
     - https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview
+- [TripleByte](https://triplebyte.com/)
+- [AI Works](https://ai.works-hub.com/jobs)
