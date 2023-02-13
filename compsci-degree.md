@@ -9,6 +9,7 @@
 - [Web Dev?](https://www.theodinproject.com/dashboard)
 - [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 - [Udacity Nanodegrees](https://github.com/mikesprague/udacity-nanodegrees)
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning#python)
 
 ### MIT CompSci Bachelors Core Tracking
 [Degree Tracking](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
