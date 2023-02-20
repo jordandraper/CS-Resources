@@ -5,6 +5,7 @@
 - [AI Works](https://ai.works-hub.com/jobs)
 - 
 # Interview Prep
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 - [Resources by Google](https://techdevguide.withgoogle.com/)
 - [What I learned from hiring hundreds of engineers can help you land your next role](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/)
