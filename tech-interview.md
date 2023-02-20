@@ -3,7 +3,7 @@
     - https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview
 - [TripleByte](https://triplebyte.com/)
 - [AI Works](https://ai.works-hub.com/jobs)
-- 
+
 # Interview Prep
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
