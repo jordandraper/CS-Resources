@@ -4,6 +4,9 @@
 - [CRISP-DM – a Standard Methodology to Ensure a Good Outcome](https://www.datasciencecentral.com/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome/)
 - [A guide to learning data analysis skills](https://www.reddit.com/r/analytics/comments/ms4h4v/a_guide_to_learning_data_analysis_skills/)
 
+### Statistics
+- https://www.youtube.com/@zedstatistics/videos
+
 ### Machine Learning & Modeling
 - https://stanford.edu/~shervine/teaching/
 - https://www.fast.ai/
