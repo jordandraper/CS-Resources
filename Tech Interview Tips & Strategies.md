@@ -1,4 +1,4 @@
-## Application Strategies
+## Application Help
 ### Referrals Are Everything!
 1. Create a visually appealing resume.
     - Ensure that your resume looks good, not just the content.
@@ -21,18 +21,20 @@
     - This method may not work for small startups.
     - This method is more effective for full-time jobs than internships.
 
-### Prepping GitHub Page
-What do employers and recruiters want to see on my Github account?
-
-- Avoid common tutorial projects; showcase original ideas and implementations.
-- Highlight projects that have real-life use and are actively utilized.
-- Ensure a well-documented README file with clear instructions and project details.
-- Apply Clean Code standards for readability and maintainability.
-- Display projects that accurately represent your skills and expertise.
-- Demonstrate knowledge of Git through regular, meaningful commits.
-- Mention the current state of incomplete projects in the README.
-- Include tests to ensure code quality and maintainability.
-
+### Resume Guide
+- Avoid generic resume templates like Indeed's; make your resume unique.
+- Keep your resume to one page, especially with less than 5 years or 20+ years of experience.
+- Use an appropriate font size, not excessively small to fit everything on one page.
+- List technologies, specific projects, jobs, and relevant coursework.
+- Proofread for spelling mistakes and errors.
+- Include a link to your GitHub or portfolio for extra information.
+- Use a professional email address (Gmail, Outlook, or personal domain); avoid Hotmail.
+- Omit objective or summary sections to save space.
+- Include only "City, State" for your address.
+- Name resume file as "FirstName LastName Resume".
+- Email resume as a PDF, or Word doc for parsing software if needed.
+- Aim for 10-second readability to make a quick impression.
+- Include interests to create personal connections and stand out.
 
 ## Current Job Openings
 - [Remotive](https://remotive.com/)
@@ -52,43 +54,54 @@ What do employers and recruiters want to see on my Github account?
 - [Gainlo - Mock interview with engineers](http://www.gainlo.co/#!/)
 - [InterviewBit](https://www.interviewbit.com/)
 
-### Data Structures & Algorithm Resources
-- [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
-- [Leetcode Study Guide](https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/?sort=new)
-- [Interactive Website](https://www.redblobgames.com/)
+### Interview Tips
 
-#### Books
-- [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi2/dmoi.html)
-- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds3/index.html)
-    - [Video Solutions](https://www.youtube.com/user/gjenkinslbcc)
-    - [Runestone](https://runestone.academy/runestone/books/index)
+#### General
+##### Beginning
+- Small talk is easy and helps build rapport.
+- Avoid politics and religion.
+- Discuss weather, local sports, hobbies, or compliment clothing.
+- Ask open-ended questions like, "How long have you ________?" to encourage conversation.
 
-#### Video & MOOC
-- [Data Structures by WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
-- [Back to Back SWE](https://www.youtube.com/c/BackToBackSWE/videos)
-- [Algorithms, Part I (Princeton by Wayne & Sedgewick)](https://www.coursera.org/learn/algorithms-part1)
-- [Algorithms, Part II (Princeton by Wayne & Sedgewick)](https://www.coursera.org/learn/algorithms-part2)
+##### Midway
+- During interviews, expect questions about your current/previous role.
+- Focus on problems solved, challenges faced, and your specific role.
+- Avoid excessive technical details; give an overview.
+- Use the STAR format to practice.
+    - The STAR format is a technique used to answer behavioral interview questions by providing structured and concise responses. It stands for:
 
-#### Coding Challenges, Interview Problems, and Competitive Programming
-- [Leetcode](https://leetcode.com)
-    - [Tips](https://www.reddit.com/r/leetcode/comments/uy7moq/leetcode_tips_by_author_or_blind_75/)
-    - [Neetcode](https://neetcode.io/)
-        -  Blind 75 & Neetcode 150 
-    - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
-- [CodeSignal](https://codesignal.com)
-- [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
-    - [Siterip on Github](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews)
-    - [Solutions Github](https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions)
-    - [Grokking questions mapped to Leetcode](https://github.com/Verse1/LeetGrokk)
-- [Firecode.io]()
-- [Codewars](https://www.codewars.com)
-- [HackerRank](https://www.hackerrank.com)
+        1. Situation: Describe the context or background of the situation you faced.
+        2. Task: Explain the task or objective you were responsible for.
+        3. Action: Detail the specific actions you took to complete the task or address the situation.
+        4. Result: Highlight the outcome or results of your actions, emphasizing any accomplishments or positive impacts.
 
-### System Design Resources
-- [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [System Design Interview Preparation Series](https://www.codekarle.com/)
+        Using the STAR format helps you effectively communicate your experiences and skills, making it easier for interviewers to understand how you've handled challenges in the past and how you might perform in the new role.
+- Earn bonus points by quantifying your business impact and revenue contributions.
 
-### Coding Interview Tips
+##### End
+- End of interview questions to gain insight into the company and position:
+  1. Ask about interviewer's interest in the company.
+  2. Request a summary of their experience, favorite aspects, challenges, and overall impressions.
+  3. Inquire about the company culture.
+  4. Find out how the position became open.
+  5. Ask what success looks like for the role.
+  6. Learn about the department's biggest achievements and challenges.
+  7. Discover what motivates employees beyond the paycheck.
+
+- Request a tour of the workspace to:
+  1. Demonstrate confidence and interest.
+  2. Meet potential colleagues.
+  3. Evaluate the work environment, temperature, dress code, equipment, and atmosphere.
+  4. Determine the quality of the workspace.
+
+- Additional questions to ask:
+  1. Discuss career progression opportunities.
+  2. Learn what you can do now to be effective if hired.
+  3. Identify the biggest problem you can help with.
+  4. Ask about a typical day for the interviewer.
+  5. Understand expectations for the first 30/60/90 days.
+  6. Clarify operational details like work hours, remote work, vacation, compensation, retirement, and healthcare.
+
 #### Preparation & How To Guide
 
 1. **Setting Expectations**: Treat the interview preparation as studying for a test; invest effort in understanding foundational elements. Address knowledge gaps and don't slack off.
