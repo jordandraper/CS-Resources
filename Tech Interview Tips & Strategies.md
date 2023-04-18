@@ -21,6 +21,19 @@
     - This method may not work for small startups.
     - This method is more effective for full-time jobs than internships.
 
+### Prepping GitHub Page
+What do employers and recruiters want to see on my Github account?
+
+- Avoid common tutorial projects; showcase original ideas and implementations.
+- Highlight projects that have real-life use and are actively utilized.
+- Ensure a well-documented README file with clear instructions and project details.
+- Apply Clean Code standards for readability and maintainability.
+- Display projects that accurately represent your skills and expertise.
+- Demonstrate knowledge of Git through regular, meaningful commits.
+- Mention the current state of incomplete projects in the README.
+- Include tests to ensure code quality and maintainability.
+
+
 ## Current Job Openings
 - [Remotive](https://remotive.com/)
     - https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview
