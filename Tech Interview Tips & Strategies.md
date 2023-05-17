@@ -61,6 +61,7 @@
 - [Resources by Google](https://techdevguide.withgoogle.com/)
 - [What I learned from hiring hundreds of engineers can help you land your next role](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/)
 - [How I Became a Recruiter-Magnet on LinkedIn](https://towardsdatascience.com/how-i-became-a-recruiter-magnet-on-linkedin-2dc6264d1137)
+- [Preparing for the Facebook interview — A brutally honest guide](https://interviewnoodle.com/preparing-for-the-facebook-interview-a-brutally-honest-guide-8e09f3b8a054)
 - [Udacity Career Development Workshops Guide](https://docs.google.com/document/d/1Bf1jEkKlCYJJdUoyBSROxPS5FsZlAaZ8cZ35GsHhpYU/pub)
 - [The PM Interview](https://thepminterview.com/)
 - [The TPM Interview](https://thetpminterview.com/)
