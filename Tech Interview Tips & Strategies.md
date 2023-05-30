@@ -70,6 +70,24 @@
 
 ### Interview Tips
 
+
+#### Initial Screening/Recruiter
+
+1) Ask why the role is open to understand the urgency for filling it and to get an idea of the tasks it involves.
+
+2) Ask how long the role has been open and the speed at which the team aims to move through the hiring process. This information can reveal the demand for the role and your negotiation leverage.
+
+3) Ask about the 'must-have' and 'nice-to-have' skills for the position. This can help you align your skills with the job requirements and prepare for upcoming interviews.
+
+4) Ask about potential challenges you could face in the role. This information can allow you to preemptively address any concerns and reduce perceived risk.
+
+5) Ask about the key achievements expected from the role. This helps you connect your experiences with the goals of the company and show that you are forward-thinking.
+
+6) Ask about any hesitations the recruiter may have about your fit for the role. This gives you the opportunity to clarify and provide more context about your background.
+
+7) Ask about the interview process and timeline. This helps you coordinate with other opportunities and put pressure on the recruiter to expedite the process.
+
+Using these questions, a candidate can gain valuable insight and better navigate the hiring process. The author concludes by emphasizing the importance of knowledge and the leverage it provides during job hunting.
 #### General
 ##### Beginning
 - Small talk is easy and helps build rapport.
@@ -115,6 +133,10 @@
   4. Ask about a typical day for the interviewer.
   5. Understand expectations for the first 30/60/90 days.
   6. Clarify operational details like work hours, remote work, vacation, compensation, retirement, and healthcare.
+  7. Handling Salary Question:
+     1. Avoid directly answering the question by saying something like, "I'm looking for an offer that's inline with the market for someone with my experience." The goal of this approach is to get the interviewer to reveal the salary range or budget for the role. This strategy may lead to a surprise salary offer at the final stage, either pleasant or unpleasant.
+     
+     2. Research thoroughly and know your market value. Provide the interviewer with a salary range based on your research, adjusted to your desired minimum and maximum. This approach has the advantage of avoiding unnecessary rounds of interviews if the company's budget doesn't align with your expectations, but requires good understanding of your market worth to avoid undervaluing yourself.
 
 #### Preparation & How To Guide
 
