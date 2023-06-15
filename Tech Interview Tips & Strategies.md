@@ -51,8 +51,6 @@
 
 ## Current Job Openings
 - [Remotive](https://remotive.com/)
-    - https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview
-- [TripleByte](https://triplebyte.com/)
 - [AI Works](https://ai.works-hub.com/jobs)
 
 ## Interview Prep Resources

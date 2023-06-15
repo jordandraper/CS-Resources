@@ -26,7 +26,6 @@
     - [Siterip on Github](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews)
     - [Solutions Github](https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions)
     - [Grokking questions mapped to Leetcode](https://github.com/Verse1/LeetGrokk)
-- [Firecode.io]()
 - [Codewars](https://www.codewars.com)
 - [HackerRank](https://www.hackerrank.com)
 

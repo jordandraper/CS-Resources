@@ -26,6 +26,20 @@
 - [CRISP-DM – a Standard Methodology to Ensure a Good Outcome](https://www.datasciencecentral.com/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome/)
 - [A guide to learning data analysis skills](https://www.reddit.com/r/analytics/comments/ms4h4v/a_guide_to_learning_data_analysis_skills/)
 
+### The Big 5 Books
+
+1. **Introduction to Statistical Learning (ISL)**: This book is a beginner-friendly introduction to statistical learning (which is essentially machine learning in a statistical context) and is written in a way that's meant to be accessible to non-mathematicians. It comes with practical examples in R. There's a free version available online.
+
+2. **The Elements of Statistical Learning (ESL)**: Considered a classic in the field, this book is essentially the more advanced version of ISL. It dives deep into the mathematical foundations of machine learning. It's a valuable resource if you're comfortable with linear algebra, calculus, and probability.
+
+3. **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**: This book is incredibly practical, focusing on teaching machine learning through hands-on examples and projects using popular Python libraries. It covers a wide range of topics, including neural networks and deep learning.
+
+4. **Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville**: This is a comprehensive and advanced book on deep learning, written by some of the top researchers in the field. It's heavy on theory and math, so it's best for readers who already have a good understanding of the basics of machine learning.
+
+5. **Mathematics for Machine Learning**: This book provides a comprehensive introduction to the necessary background in mathematics (including linear algebra, multivariate calculus, and probability) that's needed to understand machine learning algorithms. It's ideal for beginners who want to solidify their mathematical foundations.
+
+Remember, "the best" book can vary greatly depending on a person's existing knowledge base, learning style, and what exactly they want to get out of the book. Each of these books has its own strengths and would be "the best" for different types of learners or different learning objectives. It's always a good idea to look at several resources to see which aligns best with your personal learning goals.
+
 ### Math
 
 1. The "Mathematics for Machine Learning" book covers essentials for machine learning but assumes a firm background in probability theory, multivariate calculus, and linear algebra. 
@@ -57,6 +71,7 @@
 - https://www.youtube.com/@zedstatistics/videos
 
 ### Machine Learning & Modeling
+- https://madewithml.com/#mlops
 - https://stanford.edu/~shervine/teaching/
 - https://www.fast.ai/
 - https://huyenchip.com/ml-interviews-book/
