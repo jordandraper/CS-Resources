@@ -71,7 +71,7 @@ Remember, "the best" book can vary greatly depending on a person's existing know
 - https://www.youtube.com/@zedstatistics/videos
 
 ### Machine Learning & Modeling
-- https://madewithml.com/#mlops
+- https://madewithml.com/
 - https://stanford.edu/~shervine/teaching/
 - https://www.fast.ai/
 - https://huyenchip.com/ml-interviews-book/

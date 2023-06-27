@@ -2,6 +2,8 @@
 - [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 - [Leetcode Study Guide](https://www.reddit.com/r/cscareerquestions/comments/eb1e2b/my_leetcode_study_guide/?sort=new)
 - [Interactive Website](https://www.redblobgames.com/)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university#the-daily-plan)
+- [Developer Roadmaps](https://roadmap.sh/)
 
 ## Books
 - [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi2/dmoi.html)
@@ -21,6 +23,7 @@
     - [Neetcode](https://neetcode.io/)
         -  Blind 75 & Neetcode 150 
     - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+- [Stratascratch](https://platform.stratascratch.com)
 - [CodeSignal](https://codesignal.com)
 - [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
     - [Siterip on Github](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews)
