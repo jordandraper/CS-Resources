@@ -1,4 +1,8 @@
 ## Application Help
+ [What Kind Of Jobs Are There?](https://www.reddit.com/r/cscareerquestions/comments/36kbe3/comment/creq1x8/?context=3)
+## Job Boards
+- [Remotive](https://remotive.com/)
+- [AI Works](https://ai.works-hub.com/jobs)
 ### Referrals Are Everything!
 1. Create a visually appealing resume and LinkedIn.
     - Ensure that your resume looks good, not just the content.
@@ -47,11 +51,6 @@
 - Write a strong company description under your job title. This shows the recruiter how awesome that company is and it helps them understand what their mission is or even just what that company does, if it isn't obvious.This is *KEY!*Ex: "Johnny's Burger Joint was rated as the top burger restaurant in Boston by Boston Magazine. They serve an avg. of 1000+ customers a day and my franchise was rated the top out of 200+ locations across America." See how much better that is than just the name?
 - Spell out numbers below ten; use "+" for rounded numbers and abbreviations for thousands and millions. (ex: "157 employees ---> "150+ employees") and with numbers 1,000 and up abbreviate with capital "K" for thousand, "M" for million (ex: $23,800 ----> $23K+; $5 million ---> $5M)
 - Limit executive summary to two sentences with numbers and strong impact.
-
-
-## Current Job Openings
-- [Remotive](https://remotive.com/)
-- [AI Works](https://ai.works-hub.com/jobs)
 
 ## Interview Prep Resources
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
