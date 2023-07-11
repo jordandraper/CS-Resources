@@ -1,19 +1,38 @@
-# Comp Sci Course Path
-
-## MOOCS
+## Self-Taught Comp Sci Course Path
 
 ### Start Here
-- [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
-- [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html#pdfs)
-- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+#### Intro
+- [Harvard CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+
+#### Advanced
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [Web Dev?](https://www.theodinproject.com/dashboard)
-- [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
-- [Udacity Nanodegrees](https://github.com/mikesprague/udacity-nanodegrees)
-- [Project Based Learning with Python](https://github.com/practical-tutorials/project-based-learning#python)
-- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
+
+    - Too long;Don't learn: 
+        - Computer Systems: A Programmer's Perspective
+        - Designing Data-Intensive Applications
+        
+        > These two books provide incredibly high return on time invested, particularly for self-taught engineers and bootcamp grads working on networked applications.
+
+- Bonus:
+    - [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html#pdfs)
+    - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+### Now that you know CompSci, try learning some languages/frameworks
+
+#### Web dev?
+- [The Odin Project](https://www.theodinproject.com/dashboard)
+#### Full Stack?
 - [Full Stack Python](https://www.fullstackpython.com/)
 
+#### Just want to work on some projects?
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
+#### Want to just peruse some videos?
+- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
+- [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+- [Udacity Nanodegrees](https://github.com/mikesprague/udacity-nanodegrees)
+
+___
+
+## Wish you had gone to MIT?
 ### MIT CompSci Bachelors Core Tracking
 [Degree Tracking](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
 
