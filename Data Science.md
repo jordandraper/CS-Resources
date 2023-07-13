@@ -11,8 +11,15 @@
     Document the entire process and store code on GIT for auditability.
     6. Conduct a final meeting with stakeholders to present all recommendations and obtain endorsement.
     7. Depending on the functional unit supporting the project and whether the end result is insights or changes, hand over to a manager for implementation in production.
+- Lecture Notes:
+    - https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf
+    - https://www.youtube.com/watch?v=N1y9CUvGDP0&list=PLBEf5mJtE6Ku-OGGL_Ns-4nAqh7GG5HrY
+    - https://cds.nyu.edu/math-tools/
+    - https://math.nyu.edu/~cfgranda/pages/publications.html
+
 ### Interview Prep
 - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
+
 tl;dr:
 #### Interview Question Prep
 1. Python Questions: LeetCode
