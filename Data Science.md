@@ -2,6 +2,10 @@
 ### Learning Resources
 - [From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
 - [The Open Source Data Science Masters](http://datasciencemasters.org/)
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
+- [The Full Stack](https://fullstackdeeplearning.com/)
+- [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 - [CRISP-DM – a Standard Methodology to Ensure a Good Outcome](https://www.datascience-pm.com/crisp-dm-2/)
     1. Define the business problem.
     2. Meet with stakeholders to discuss the problem and potential solutions. This includes addressing core questions.
