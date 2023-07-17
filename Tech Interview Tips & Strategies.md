@@ -1,63 +1,7 @@
-## Application Help
- [What Kind Of Jobs Are There?](https://www.reddit.com/r/cscareerquestions/comments/36kbe3/comment/creq1x8/?context=3)
-## Job Boards
-- [Remotive](https://remotive.com/)
-- [AI Works](https://ai.works-hub.com/jobs)
-### Referrals Are Everything!
-1. Create a visually appealing resume and LinkedIn.
-    - Ensure that your resume looks good, not just the content.
-    - Use platforms such as LaTeX to make it visually appealing.
-    - Optimize your LinkedIn profile with a professional photo, background, and detailed descriptions.
-
-2. Use LinkedIn to contact people.
-    - Focus on building your network if it's currently small or limited. Increase LinkedIn connections by adding people from various groups (e.g., realtor groups) to reach 500+ connections.
-    - When searching for roles, start with all of your friends and family to see if their company has a role you want.
-    - Search for the company you're interested in and look for people in Engineering or with similar backgrounds.
-    - Add filters to narrow your search to your alma mater, relevant majors, or even specific connections.
-    - Send connection requests and messages to 1-3 people who clear the filters.
-    - Keep your message simple and straightforward, and ask for a referral.
-
-3. Wait for a referral before applying.
-    - If someone agrees to refer you, let them apply for you.
-    - Applying before you are referred may disqualify you.
-
-4. Contact recruiters if possible.
-    - Recruiters can be an excellent resource for finding job opportunities.
-
-5. Be patient.
-    - This method may not work for small startups.
-    - This method is more effective for full-time jobs than internships.
-
-6. If LinkedIn isn't working
-    - Use hunter.io to find work emails of recruiters or other professionals to send cold emails.
-### Resume Guide
-- Avoid generic resume templates like Indeed's; make your resume unique.
-- Keep your resume to one page, especially with less than 5 years or 20+ years of experience.
-- Use an appropriate font size, not excessively small to fit everything on one page.
-- List technologies, specific projects, jobs, and relevant coursework.
-- Proofread for spelling mistakes and errors.
-- Include a link to your GitHub or portfolio for extra information.
-- Use a professional email address (Gmail, Outlook, or personal domain); avoid Hotmail.
-- Omit objective or summary sections to save space.
-- Include only "City, State" for your address.
-- Name resume file as "FirstName LastName Resume".
-- Email resume as a PDF, or Word doc for parsing software if needed.
-- Aim for 10-second readability to make a quick impression.
-- Include interests to create personal connections and stand out.
-- Include numbers on as many bullet points as possible. E.g. "responsible for managing team and hosting meetings" vs. "managed team of 20 coworkers, whose combined sales reached 112% quota"
-- Bullet point format: past tense verb (created, developed, etc), number, result number.
-- Did I mention have a lot of numbers on it? As many bullet points as you can. Numbers = profit or quantifiable results, separating you from the "vague description" applicants. It all falls apart if you don't do this and the resume will never get looked at.
-- Use an inverted pyramid style: chronological order, descending number of bullet points e.g. most recent job = 7 bullet points, next most recent = 5-6, etc etc all the way down. Some can be equal, it just has to be decending order.
-- Write a strong company description under your job title. This shows the recruiter how awesome that company is and it helps them understand what their mission is or even just what that company does, if it isn't obvious.This is *KEY!*Ex: "Johnny's Burger Joint was rated as the top burger restaurant in Boston by Boston Magazine. They serve an avg. of 1000+ customers a day and my franchise was rated the top out of 200+ locations across America." See how much better that is than just the name?
-- Spell out numbers below ten; use "+" for rounded numbers and abbreviations for thousands and millions. (ex: "157 employees ---> "150+ employees") and with numbers 1,000 and up abbreviate with capital "K" for thousand, "M" for million (ex: $23,800 ----> $23K+; $5 million ---> $5M)
-- Limit executive summary to two sentences with numbers and strong impact.
-
 ## Interview Prep Resources
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 - [Resources by Google](https://techdevguide.withgoogle.com/)
-- [What I learned from hiring hundreds of engineers can help you land your next role](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/)
-- [How I Became a Recruiter-Magnet on LinkedIn](https://towardsdatascience.com/how-i-became-a-recruiter-magnet-on-linkedin-2dc6264d1137)
 - [Preparing for the Facebook interview — A brutally honest guide](https://interviewnoodle.com/preparing-for-the-facebook-interview-a-brutally-honest-guide-8e09f3b8a054)
 - [Udacity Career Development Workshops Guide](https://docs.google.com/document/d/1Bf1jEkKlCYJJdUoyBSROxPS5FsZlAaZ8cZ35GsHhpYU/pub)
 - [The PM Interview](https://thepminterview.com/)
@@ -66,8 +10,6 @@
 - [InterviewBit](https://www.interviewbit.com/)
 
 ### Interview Tips
-
-
 #### Initial Screening/Recruiter
 
 1) Ask why the role is open to understand the urgency for filling it and to get an idea of the tasks it involves.
@@ -93,6 +35,7 @@ Using these questions, a candidate can gain valuable insight and better navigate
 - Ask open-ended questions like, "How long have you ________?" to encourage conversation.
 
 ##### Midway
+- ["Tell Me About Yourself"](https://www.andrew.today/p/tell-me-about-yourself)
 - During interviews, expect questions about your current/previous role.
 - Focus on problems solved, challenges faced, and your specific role.
 - Avoid excessive technical details; give an overview.
@@ -105,6 +48,29 @@ Using these questions, a candidate can gain valuable insight and better navigate
         4. Result: Highlight the outcome or results of your actions, emphasizing any accomplishments or positive impacts.
 
         Using the STAR format helps you effectively communicate your experiences and skills, making it easier for interviewers to understand how you've handled challenges in the past and how you might perform in the new role.
+
+        And to enhance STAR even more:
+        
+         ✅ Think of 6-8 accomplishments you're most proud of, write those stories down and practice them out loud. By preparing a story bank in advance, you will give better data to your interviewer, you'll be more articulate, and you'll pick the best story for each question. Use these writing prompts:
+
+        For individual contributors, tell me about a time you:- Solved a technically challenging problem- Delivered a project overcoming difficult hurdles- Innovated a creative solution, or delivered well beyond expectations- Raised the bar / improved a practice or process- Resolved a disagreement (using data)- Received critical feedback- Saw a peer struggling
+
+        For managers, scale those up to the team or org level, and also add these:  - Managed a high and low performer  - Set a charter or new direction for your team
+
+        If your stories are meaty enough, they will work for every question they throw at you.
+
+        STAR formatted stories are too often underwhelming. Wow with these tips.
+
+        ✅ Start with a headline. Let me tell you about the time I [did this amazing thing].
+
+        ✅ Convey why the work was challenging and your contributions were key. Too often STAR stories sound ordinary, like anyone would have been successful.
+
+        ✅ Say I instead of We. Make it crystal clear what you did vs what others did. This is a common mistake because we are humble and speak as if we're all one team, but you won't get credit for your part if you say We instead of I.
+
+        ✅ For technical projects, go into the technical details. It's another opportunity to demonstrate hard skills.
+
+        ✅ End with learnings. What do you now teach others due to this experience? This is optional but when it fits, it shows great maturity. 
+
 - Earn bonus points by quantifying your business impact and revenue contributions.
 
 ##### End

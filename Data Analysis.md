@@ -20,3 +20,15 @@ This framework structures data analysis skills into three stages - beginner, int
 Remember that the need to advance through all these stages depends on your career goals. If you're a marketer wanting to be more data-driven, you might not need the advanced skills. However, if you're aiming to be a full-time data analyst, mastering all three stages is beneficial. 
 
 Regardless of your goal, start at the bottom of the pyramid and gradually progress. The primary goal should always be to deliver value to the business with your analysis.
+
+## SQL Knowledge Tier Guide
+ Here a rough skill tier list:
+|Tier |	Analyst |	Admin |
+| ----------- | ----------- | ----------- |
+|S |	PLAN ESTIMATES, PLAN CACHE |	DISASTER RECOVERY|
+|A |	EXECUTION PLAN, QUERY HINTS, HASH / MERGE / NESTED LOOPS, TRACE |	REPLICATION, CLR, MESSAGE QUEUE, ENCRYPTION, CLUSTERING|
+|B |	DYNAMIC SQL, XML / JSON |	FILEGROUP, GROWTH, HARDWARE PERFORMANCE, STATISTICS, BLOCKING, CDC|
+|C |	RECURSIVE CTE, ISOLATION LEVEL |	COLUMNSTORE, TABLE VALUED FUNCTION, DBCC, REBUILD, REORGANIZE, SECURITY, PARTITION, MATERIALIZED VIEW, TRIGGER, DATABASE SETTING|
+|D |	RANKING, WINDOWED AGGREGATE, CROSS APPLY |	BACKUP, RESTORE, CHECK, COMPUTED COLUMN, SCALAR FUNCTION, STORED PROCEDURE|
+|E |	SUBQUERY, CTE, EXISTS, IN, HAVING, LIMIT / TOP, PARAMETERS |	INDEX, FOREIGN KEY, DEFAULT, PRIMARY KEY, UNIQUE KEY|
+|F |	SELECT, FROM, JOIN, WERE, GROUP BY, ORDER BY |	TABLE, VIEW |
