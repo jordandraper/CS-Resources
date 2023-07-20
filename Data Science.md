@@ -20,6 +20,18 @@
     - https://www.youtube.com/watch?v=N1y9CUvGDP0&list=PLBEf5mJtE6Ku-OGGL_Ns-4nAqh7GG5HrY
     - https://cds.nyu.edu/math-tools/
     - https://math.nyu.edu/~cfgranda/pages/publications.html
+- Other Resources:
+
+    Cracking the Coding Interview is great for approaching Python questions
+
+    LeetCode is the GOAT when it comes to interactive python coding practice
+
+    Chip Hyun's free Machine Learning Interviews Github Book is great for ML Engineering or Research Scientist/Applied ML Research roles
+
+    this Data Science Interview cheat sheet is a great way to get a survey of topics covered.
+
+    for Product Data Science roles, I like Trustworthy Online Experiments since open-ended questions about A/B Testing and metric design are quite common, and many folks haven't covered these things before.
+
 
 ### Interview Prep
 - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
