@@ -18,9 +18,9 @@
     - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 ### Now that you know CompSci, try learning some languages/frameworks
 
-#### Web dev?
+#### Full Stack Web Dev
+- [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
 - [The Odin Project](https://www.theodinproject.com/dashboard)
-#### Full Stack?
 - [Full Stack Python](https://www.fullstackpython.com/)
 
 #### Just want to work on some projects?
