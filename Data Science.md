@@ -1,11 +1,6 @@
 ## Data Science Resources
-### Learning Resources
-- [From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
-- [The Open Source Data Science Masters](http://datasciencemasters.org/)
-- [Practical Deep Learning for Coders](https://course.fast.ai/)
-- [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
-- [The Full Stack](https://fullstackdeeplearning.com/)
-- [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
+
+### Methodology
 - [CRISP-DM – a Standard Methodology to Ensure a Good Outcome](https://www.datascience-pm.com/crisp-dm-2/)
     1. Define the business problem.
     2. Meet with stakeholders to discuss the problem and potential solutions. This includes addressing core questions.
@@ -15,22 +10,32 @@
     Document the entire process and store code on GIT for auditability.
     6. Conduct a final meeting with stakeholders to present all recommendations and obtain endorsement.
     7. Depending on the functional unit supporting the project and whether the end result is insights or changes, hand over to a manager for implementation in production.
-- Lecture Notes:
-    - https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf
-    - https://www.youtube.com/watch?v=N1y9CUvGDP0&list=PLBEf5mJtE6Ku-OGGL_Ns-4nAqh7GG5HrY
-    - https://cds.nyu.edu/math-tools/
-    - https://math.nyu.edu/~cfgranda/pages/publications.html
+### Learning Resources
+- [From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+- [The Open Source Data Science Masters](http://datasciencemasters.org/)
+
+#### Courses
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
+- [The Full Stack](https://fullstackdeeplearning.com/)
+- [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)
+- [Probability and Statistics for Data Science (old videos)](https://www.youtube.com/watch?v=N1y9CUvGDP0&list=PLBEf5mJtE6Ku-OGGL_Ns-4nAqh7GG5HrY)
+
+#### Books
+- [Probability and Statistics for Data Science](https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf)
+
+
 - Other Resources:
 
-    Cracking the Coding Interview is great for approaching Python questions
+    - Cracking the Coding Interview is great for approaching Python questions
 
-    LeetCode is the GOAT when it comes to interactive python coding practice
+    - LeetCode is the GOAT when it comes to interactive python coding practice
 
-    Chip Hyun's free Machine Learning Interviews Github Book is great for ML Engineering or Research Scientist/Applied ML Research roles
+    - Chip Hyun's free Machine Learning Interviews Github Book is great for ML Engineering or Research Scientist/Applied ML Research roles
 
-    this Data Science Interview cheat sheet is a great way to get a survey of topics covered.
+    - [this](https://github.com/aaronwangy/Data-Science-Cheatsheet) Data Science Interview cheat sheet is a great way to get a survey of topics covered.
 
-    for Product Data Science roles, I like Trustworthy Online Experiments since open-ended questions about A/B Testing and metric design are quite common, and many folks haven't covered these things before.
+    - for Product Data Science roles, I like Trustworthy Online Experiments since open-ended questions about A/B Testing and metric design are quite common, and many folks haven't covered these things before.
 
 
 ### Interview Prep
