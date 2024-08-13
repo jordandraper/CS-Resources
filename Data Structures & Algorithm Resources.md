@@ -18,6 +18,7 @@
 - [Algorithms, Part II (Princeton by Wayne & Sedgewick)](https://www.coursera.org/learn/algorithms-part2)
 
 ## Coding Challenges, Interview Problems, and Competitive Programming
+- [Design Gurus](https://www.designgurus.io/home)
 - [Leetcode](https://leetcode.com)
     - [Tips](https://www.reddit.com/r/leetcode/comments/uy7moq/leetcode_tips_by_author_or_blind_75/)
     - [Neetcode](https://neetcode.io/)
@@ -35,3 +36,4 @@
 ## System Design
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design Interview Preparation Series](https://www.codekarle.com/)
+- [Booknotes](https://github.com/preslavmihaylov/booknotes/tree/master/system-design)
